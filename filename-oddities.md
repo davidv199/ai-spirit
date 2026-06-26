@@ -1,0 +1,27 @@
+# Likely Filename Mistakes And Oddities
+
+- `Z - v∞kazy pro AI` -> proposed `Z - výkazy pro AI`
+- `Z - v∞kazy pro AI\Artahal\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `Z - v∞kazy pro AI\HSP\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `Z - v∞kazy pro AI\Mendoza\V∞kaz_zisku_a_ztráty_v_plném_rozsahu od 1.1.1.2025 do 30.06.2025.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu od 1.1.2025 do 30.06.2025.pdf`
+- `Z - v∞kazy pro AI\Mendoza\V∞kaz_zisku_a_ztráty_v_plném_rozsahu od 1.7.2025 do 31.12.2025.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu od 1.7.2025 do 31.12.2025.pdf`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\vazby mezi zdroji a v∞stupy.docx` -> proposed `vazby mezi zdroji a výstupy.docx`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2024-12-31\V∞stupy` -> proposed `Výstupy`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2024-12-31\V∞stupy\p²íloha MO k 2024-12-31.pdf` -> proposed `příloha MO k 2024-12-31.pdf`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2024-12-31\V∞stupy\v∞roƒní zpráva MO k 2022-12-31.pdf` -> proposed `výroční zpráva MO k 2022-12-31 - NEPATŘÍ DO 2024-12-31.pdf`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2024-12-31\V∞stupy\¼NB statistika MO k 2024-12-31.xlsx` -> proposed `ČNB statistika MO k 2024-12-31.xlsx`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2024-12-31\V∞stupy\¼SΘ statistika MO k 2024-12-31.pdf` -> proposed `ČSÚ statistika MO k 2024-12-31.pdf`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2025-06-30\V∞stupy` -> proposed `Výstupy`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2025-06-30\V∞stupy\p²íloha MO k 2025-06-30.xlsx.pdf` -> proposed `příloha MO k 2025-06-30.pdf`
+- `Z - v∞kazy pro AI\Monkstone Ostrava\2025-06-30\Zdroje\V∞sledovka MO k 2025-06-30.pdf` -> proposed `Výsledovka MO k 2025-06-30.pdf`
+- `Z - v∞kazy pro AI\Mosmota\2023\V∞stupy` -> proposed `Výstupy`
+- `Z - v∞kazy pro AI\Mosmota\2023\Zdroje\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `Z - v∞kazy pro AI\Mosmota\2024\V∞stupy` -> proposed `Výstupy`
+- `Z - v∞kazy pro AI\Mosmota\2024\Zdroje\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `Z - v∞kazy pro AI\Mosmota\2025\V∞stupy` -> proposed `Výstupy`
+- `Z - v∞kazy pro AI\Mosmota\2025\V∞stupy\V∞kaz roƒní P 05.pdf` -> proposed `Výkaz roční P 05.pdf`
+- `Z - v∞kazy pro AI\Mosmota\2025\V∞stupy\Valná hromada, listina p²íromn∞ch, p. pozvánka z 89 2012Sb` -> proposed `Valná hromada, listina přítomných, p. pozvánka z 89 2012Sb`
+- `Z - v∞kazy pro AI\Mosmota\2025\Zdroje\Priloha_v_uc.zaverce.docx` -> proposed `Příloha_v_úč.závěrce.docx`
+- `Z - v∞kazy pro AI\Mosmota\2025\Zdroje\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `Z - v∞kazy pro AI\Spirit Property\V∞kaz_zisku_a_ztráty_v_plném_rozsahu.pdf` -> proposed `Výkaz_zisku_a_ztráty_v_plném_rozsahu.pdf`
+- `test` -> oddity: root-level placeholder-looking file containing only `test`; proposed review before keeping/removing
