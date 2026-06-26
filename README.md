@@ -1,0 +1,2 @@
+# ai-spirit
+Small project
